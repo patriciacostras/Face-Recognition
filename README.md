@@ -6,7 +6,6 @@ Aplicatia completa
 
 ![image](https://github.com/user-attachments/assets/6bfa9aa2-c762-431a-97a3-a1669e4b9ead)
 
-
+Schema bloc a sistemului de control acces cu recunoastere faciala
 
 ![image](https://github.com/user-attachments/assets/07198e2c-2bc1-4e2f-a3db-4683795bc586)
-
