@@ -158,7 +158,7 @@ Block Diagram of the Access Control System with Facial Recognition
 
 ![image](https://github.com/user-attachments/assets/07198e2c-2bc1-4e2f-a3db-4683795bc586)
 
-Here is a presentation on how it works:
+Here is a video demonstration of a facial recognition system in action, utilizing a Raspberry Pi and connected hardware to process real-time input, verify user identity, and provide visual feedback through LED signals based on access permissions:
 
 ![video facerec - Made with Clipchamp](https://github.com/user-attachments/assets/ea29b305-ec54-4448-b03c-ffb78ff1c0c3)
 
