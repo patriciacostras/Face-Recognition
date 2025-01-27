@@ -157,3 +157,8 @@ Complete Application
 Block Diagram of the Access Control System with Facial Recognition
 
 ![image](https://github.com/user-attachments/assets/07198e2c-2bc1-4e2f-a3db-4683795bc586)
+
+Here is a presentation on how it works:
+
+![video facerec - Made with Clipchamp](https://github.com/user-attachments/assets/ea29b305-ec54-4448-b03c-ffb78ff1c0c3)
+
